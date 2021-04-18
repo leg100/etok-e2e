@@ -1,3 +1,3 @@
 resource "null_resource" "hello" {
-  count = 500
+  count = 1000
 }
